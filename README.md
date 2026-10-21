@@ -1,6 +1,6 @@
 # Simple Portfolio
 
-A small, responsive portfolio made with Next.js.
+Hakeem H. Hassan's portfolio, a responsive landing page made with Next.js.
 
 ## Run it locally
 
@@ -11,7 +11,7 @@ A small, responsive portfolio made with Next.js.
 
 ## Personalize it
 
-Edit `app/page.tsx` to update your name, introduction, skills, projects, email, and social links. Edit `app/globals.css` to change the colors and layout.
+Edit `components/data.ts` to update the name, role, tagline, phone number, nav counts and social links. Replace `public/hero.webp` to change the photo. Edit `app/globals.css` to change the colors and layout.
 
 ## Push it to GitHub
 
